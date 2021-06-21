@@ -1,0 +1,15 @@
+tempo: 10
+comandospawn: "spawn"
+id: 381
+mundosdesativados:
+  - "vip"
+  - "spawn"
+  - "lobby"
+msgdesabilitado: "§cOlho de deus está desativado nesse mundo!"
+nome: "§6§lOlho de deus"
+lore:
+  - "§bOlho de deus com um tempo de 10 segundos"
+permissao: "olho.give"
+give: "§aVocê recebeu o olho de deus com sucesso!"
+noperm: "§cVocê não tem permissão para fazer isso!"
+ativou: "§6§lOlho de deus ativado!"

@@ -1,0 +1,7 @@
+main: com.zolhodedeus.Main
+version: 1.1
+name: zOlhoDeDeus
+author: emanuelVINI01
+commands:
+  giveolhodedeus:
+    aliases: [giveolho]
